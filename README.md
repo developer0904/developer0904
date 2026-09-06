@@ -1,189 +1,199 @@
+<!-- =========================================================
+     SUDIP KUMAR — PROFILE README
+     Layout closely follows the supplied JoshuaThadi reference.
+     Personal content, links, repositories and technology choices
+     are adapted for developer0904.
+     ========================================================= -->
+
+<!-- Header / MasterHead -->
+<a href="https://github.com/developer0904">
+  <img width="100%" src="./assets/pinterest-708824428892517445.png" alt="Sudip Kumar Banner"/>
+</a>
+
+<br>
+
+<!-- Profile Metrics -->
 <div align="center">
+  <a href="https://github.com/developer0904" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=developer0904&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" />
+  </a>
 
-<img src="./assets/pinterest-708824428892517445.png" alt="Sudip Kumar" width="100%" />
+  <a href="https://github.com/developer0904?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/developer0904?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
+  </a>
 
-# Hi 👋, I'm Sudip Kumar
+  <a href="https://github.com/developer0904?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/developer0904?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+  </a>
 
-### Backend Developer · Java · DSA · DevOps
-
-**I build backend systems, solve problems, and turn what I learn into working software.**
-
-<a href="https://github.com/developer0904">GitHub</a> · <a href="https://www.linkedin.com/in/sudipkumardas2026/">LinkedIn</a> · <a href="https://developer0904.github.io/">Portfolio</a>
-
+  <a style="display:block;" href="https://github.com/developer0904?tab=repositories">
+    <img alt="Repositories" title="Public repositories" src="https://img.shields.io/badge/Repositories-View-5C5858?style=for-the-badge&logo=github&logoColor=ffffff" />
+  </a>
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
+<!-- Greeting -->
+<h1 align="center">Hi 👋, I'm Sudip Kumar</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=5e81ac&center=true&vCenter=true&width=780&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+DSA;Building+Reliable+Backend+Systems;DevOps+%26+Cloud+Enthusiast;Learning+By+Building+%26+Shipping" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <strong>Computer Engineering student focused on backend engineering, problem solving and production-ready software.</strong><br>
+  <strong>I like understanding systems deeply and turning concepts into maintainable working solutions.</strong>
+</p>
+
+<br>
+
+<!-- About Me -->
 <table>
 <tr>
 <td width="62%" valign="top">
 
-### Building with purpose, learning by shipping.
-
-I'm a **Computer Engineering student and aspiring Backend Engineer** focused on building a strong foundation in software engineering rather than simply collecting technologies.
-
-I enjoy taking a concept from **DSA, object-oriented programming, databases or backend development** and turning it into something that actually works.
-
-Currently, my main focus is **Java and backend engineering** — strengthening my problem-solving skills, learning how production APIs are designed, and understanding the engineering decisions behind scalable applications.
-
-I'm also exploring **DevOps, cloud infrastructure and automation**, because I want to understand the complete journey of software: from writing code → testing it → deploying it → keeping it reliable.
-
-### 🎯 What I'm working toward
-
-- 🧠 Becoming significantly stronger at **DSA & problem solving**
-- ☕ Building depth in **Java & backend development**
-- 🔌 Designing clean and reliable **REST APIs**
-- 🗄️ Getting better with **SQL, databases & data modeling**
-- 🐳 Learning **Docker, CI/CD, cloud & DevOps practices**
-- 🚀 Building projects that demonstrate real engineering ability
+<h3 align="left">💫 About Me</h3>
+<p>
+  🌱 I am currently strengthening my <strong>Java, DSA and backend engineering</strong> fundamentals through consistent hands-on practice.<br><br>
+  🔭 I enjoy building and understanding <strong>REST APIs, authentication, databases and application architecture</strong>.<br><br>
+  💬 My current backend direction includes <strong>Java, Spring Boot, SQL, PostgreSQL, Python and Django</strong>.<br><br>
+  ⚡ I'm also exploring <strong>Docker, CI/CD, DevOps, cloud infrastructure and automation</strong>.<br><br>
+  🎯 My goal is to become a software engineer who can <strong>design, implement, test, deploy and maintain reliable systems</strong>.
+</p>
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=developer0904&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&rank_icon=github" width="100%" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer0904&layout=compact&hide_border=true&theme=github_dark&langs_count=6" width="100%" alt="Top languages" />
+<img align="center" alt="coding-gif" width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/transparent_gitgif.gif" />
 
 </td>
 </tr>
 </table>
 
----
+<h3 align="left">🧲 Drop me a line:</h3>
+<div align="left">
+  <a href="mailto:sudeepdasdas17815@gmail.com" target="_blank">
+    <img width="35px" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sudipkumardas2026/" target="_blank">
+    <img width="35px" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://developer0904.github.io/" target="_blank">
+    <img width="35px" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/developer0904" target="_blank">
+    <img width="35px" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" />
+  </a>
+</div>
 
-## ⚒️ Tech Stack
+<br>
+<br>
 
-### Core
+<!-- Languages & Tools -->
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django" /><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,linux,vscode" /><br>
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 
-### Backend
+<!-- GitHub Status -->
+<h3 align="center">🌱 GitHub Status</h3>
+<div align="center">
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=developer0904&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" alt="GitHub Stats" />
+  <img width="398" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer0904&layout=compact&theme=nord&border_radius=8&langs_count=6" alt="Most Used Languages" />
+  <br><br>
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=developer0904&theme=nord&hide_border=false" alt="GitHub Streak" />
+</div>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<br>
 
-### Data & Infrastructure
+<!-- Best Repositories -->
+<div align="center">
+  <h3>⭐️ Interesting Repositories</h3>
+  <p align="center">
+    <a href="https://github.com/developer0904/Pin_Panda_BackEnd"><img src="https://gh-card.dev/repos/developer0904/Pin_Panda_BackEnd.svg" width="400" alt="Pin Panda Backend"></a>
+    <a href="https://github.com/developer0904/livestock-backend"><img src="https://gh-card.dev/repos/developer0904/livestock-backend.svg" width="400" alt="Livestock Backend"></a>
+    <a href="https://github.com/developer0904/Travel_Booking_Web"><img src="https://gh-card.dev/repos/developer0904/Travel_Booking_Web.svg" width="400" alt="Travel Booking Web"></a>
+    <a href="https://github.com/developer0904/infra-automation"><img src="https://gh-card.dev/repos/developer0904/infra-automation.svg" width="400" alt="Infrastructure Automation"></a>
+    <a href="https://github.com/developer0904/leetCode_DSA"><img src="https://gh-card.dev/repos/developer0904/leetCode_DSA.svg" width="400" alt="LeetCode DSA"></a>
+    <a href="https://github.com/developer0904/portFolio"><img src="https://gh-card.dev/repos/developer0904/portFolio.svg" width="400" alt="Portfolio"></a>
+  </p>
+</div>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br>
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📌 Pin Panda — Backend
-
-Backend application built with the Node.js ecosystem, working with authentication, middleware and MongoDB-oriented development.
-
-**Stack:** `Node.js` `Express` `MongoDB` `Passport.js`
-
-<a href="https://github.com/developer0904/Pin_Panda_BackEnd">View project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🐄 Livestock Management API
-
-Django REST backend with JWT authentication and APIs for animals, owners, events, inventory and reports, including filtering, search, ordering and pagination.
-
-**Stack:** `Python` `Django REST Framework` `JWT` `SQL`
-
-<a href="https://github.com/developer0904/livestock-backend">View project →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Infrastructure Automation
-
-A dedicated space for experimenting with infrastructure, automation and DevOps workflows.
-
-**Focus:** `DevOps` `Automation` `Infrastructure`
-
-<a href="https://github.com/developer0904/infra-automation">View project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 DSA Practice
-
-An evolving collection of LeetCode and algorithmic problem-solving practice, focused on patterns and implementation.
-
-**Focus:** `Java` `Data Structures` `Algorithms`
-
-<a href="https://github.com/developer0904/leetCode_DSA">View repository →</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Current Learning Path
-
-```text
-Java & OOP
-    ↓
-Collections · Generics · Lambdas · Exceptions
-    ↓
-DSA & Problem Solving
-    ↓
-Spring Boot · REST APIs · Databases
-    ↓
-Docker · CI/CD · Cloud · DevOps
-    ↓
-Production-ready Backend Engineering
-```
-
----
-
-## 📊 GitHub Activity
-
+<!-- Tech Stack -->
+<h3 align="center">💻 Tech Stack</h3>
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=developer0904&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-[![Sudip's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=developer0904&bg_color=0d1117&color=8b949e&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/developer0904)
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
 
 </div>
 
----
+<br>
 
-## 🤝 Connect With Me
-
+<!-- Contribution Activity -->
+<h3 align="center">📈 GitHub Activity</h3>
 <div align="center">
-
-<a href="https://github.com/developer0904"><img src="https://img.shields.io/badge/GitHub-developer0904-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/sudipkumardas2026/"><img src="https://img.shields.io/badge/LinkedIn-Sudip_Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-<a href="https://developer0904.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
+  <a href="https://github.com/developer0904">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer0904&bg_color=2e3440&color=eceff4&line=88c0d0&point=5e81ac&area=true&hide_border=true&custom_title=Sudip%20Kumar's%20Contribution%20Activity" width="96%" alt="GitHub Activity Graph" />
+  </a>
 </div>
 
----
+<br>
 
+<!-- Contribution Snake -->
+<h3 align="center">🐍 Contribution Journey</h3>
 <div align="center">
-
-### `Build → Learn → Improve → Ship`
-
-<img src="https://komarev.com/ghpvc/?username=developer0904&style=flat-square&color=grey" alt="Profile views" />
-
+  <img src="https://raw.githubusercontent.com/developer0904/developer0904/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
+
+<br>
+
+<!-- Current Direction -->
+<h3 align="center">🧠 Current Direction</h3>
+<p align="center">
+  <strong>Java → DSA → Spring Boot → REST APIs → SQL → Docker → CI/CD → Cloud</strong>
+</p>
+
+<br>
+
+<!-- Support -->
+<h3 align="center">💰 Support Me</h3>
+<p align="center">
+  <a href="https://github.com/developer0904">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Support" />
+  </a>
+</p>
+
+<br>
+
+<!-- Ending -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
+<p align="center">
+  ⚠️ This profile is built by <strong>@developer0904</strong> — inspired by the reference layout, with my own content and projects.
+</p>
+
+<p align="center">
+  <code>Build → Learn → Improve → Ship</code>
+</p>
