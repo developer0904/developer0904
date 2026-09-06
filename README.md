@@ -1,13 +1,11 @@
 <!-- =========================================================
      SUDIP KUMAR — PROFILE README
-     Layout closely follows the supplied JoshuaThadi reference.
-     Personal content, links, repositories and technology choices
-     are adapted for developer0904.
+     Inspired by the supplied reference profile structure.
      ========================================================= -->
 
-<!-- Header / MasterHead -->
+<!-- Master Head -->
 <a href="https://github.com/developer0904">
-  <img width="100%" src="./assets/sakura-midnight-train-pc-ezgif.com-video-to-gif-converter.gif" alt="Sudip Kumar Banner"/>
+  <img width="100%" src="./assets/pinterest-708824428892517445.png" alt="Sudip Kumar Banner"/>
 </a>
 
 <br>
@@ -15,19 +13,16 @@
 <!-- Profile Metrics -->
 <div align="center">
   <a href="https://github.com/developer0904" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=developer0904&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" />
+    <img src="https://komarev.com/ghpvc/?username=developer0904&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
   </a>
-
   <a href="https://github.com/developer0904?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/developer0904?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
+    <img alt="Total Stars" src="https://img.shields.io/github/stars/developer0904?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
   </a>
-
   <a href="https://github.com/developer0904?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/developer0904?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+    <img alt="Followers" src="https://img.shields.io/github/followers/developer0904?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
   </a>
-
-  <a style="display:block;" href="https://github.com/developer0904?tab=repositories">
-    <img alt="Repositories" title="Public repositories" src="https://img.shields.io/badge/Repositories-View-5C5858?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <a href="https://github.com/developer0904?tab=repositories" target="_blank">
+    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-View-5C5858?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
 </div>
 
@@ -64,64 +59,70 @@
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img align="center" alt="coding-gif" width="100%" src="./assets/desk-work.gif" />
+<img alt="coding animation" width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/transparent_gitgif.gif" />
 
 </td>
 </tr>
 </table>
 
-<h3 align="left">🧲 Drop me a line:</h3>
-<div align="left">
-  <a href="mailto:sudeepdasdas17815@gmail.com" target="_blank">
-    <img width="35px" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sudipkumardas2026/" target="_blank">
-    <img width="35px" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://developer0904.github.io/" target="_blank">
-    <img width="35px" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/developer0904" target="_blank">
-    <img width="35px" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" />
-  </a>
-</div>
-
 <br>
+
+<!-- Connect -->
+<h3 align="left">🧲 Drop me a line:</h3>
+<p align="left">
+  <a href="mailto:sudeepdasdas17815@gmail.com" target="_blank">
+    <img width="40" height="40" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sudipkumardas2026/" target="_blank">
+    <img width="40" height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer0904.github.io/" target="_blank">
+    <img width="40" height="40" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/developer0904" target="_blank">
+    <img width="40" height="40" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" />
+  </a>
+</p>
+
 <br>
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django" /><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,git,github" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,linux,vscode" /><br>
-</div>
+<h3 align="center">📚 Languages &amp; Tools I Have Placed My Hands On</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" alt="Languages and tools row 1" /><br>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django" alt="Languages and tools row 2" /><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,git,github" alt="Languages and tools row 3" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,linux,vscode" alt="Languages and tools row 4" />
+</p>
 
 <br>
 
 <!-- GitHub Status -->
 <h3 align="center">🌱 GitHub Status</h3>
-<div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=developer0904&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" alt="GitHub Stats" />
-  <img width="398" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer0904&layout=compact&theme=nord&border_radius=8&langs_count=6" alt="Most Used Languages" />
+<p align="center">
+  <a href="https://github.com/developer0904">
+    <img width="410" src="https://github-readme-stats.vercel.app/api?username=developer0904&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/developer0904">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer0904&layout=compact&theme=nord&border_radius=8&langs_count=6" alt="Most Used Languages" />
+  </a>
   <br><br>
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=developer0904&theme=nord&hide_border=false" alt="GitHub Streak" />
-</div>
+  <img width="430" src="https://streak-stats.demolab.com/?user=developer0904&theme=nord&hide_border=false" alt="GitHub Streak" />
+</p>
 
 <br>
 
-<!-- Best Repositories -->
+<!-- Interesting Repositories -->
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
     <a href="https://github.com/developer0904/Pin_Panda_BackEnd"><img src="https://gh-card.dev/repos/developer0904/Pin_Panda_BackEnd.svg" width="400" alt="Pin Panda Backend"></a>
-    <a href="https://github.com/developer0904/livestock-backend"><img src="https://gh-card.dev/repos/developer0904/livestock-backend.svg" width="400" alt="Livestock Backend"></a>
+    <a href="https://github.com/developer0904/livestock-backend"><img src="https://gh-card.dev/repos/developer0904/livestock-backend.svg" width="400" alt="Livestock Backend"></a><br>
     <a href="https://github.com/developer0904/Travel_Booking_Web"><img src="https://gh-card.dev/repos/developer0904/Travel_Booking_Web.svg" width="400" alt="Travel Booking Web"></a>
-    <a href="https://github.com/developer0904/infra-automation"><img src="https://gh-card.dev/repos/developer0904/infra-automation.svg" width="400" alt="Infrastructure Automation"></a>
+    <a href="https://github.com/developer0904/infra-automation"><img src="https://gh-card.dev/repos/developer0904/infra-automation.svg" width="400" alt="Infrastructure Automation"></a><br>
     <a href="https://github.com/developer0904/leetCode_DSA"><img src="https://gh-card.dev/repos/developer0904/leetCode_DSA.svg" width="400" alt="LeetCode DSA"></a>
     <a href="https://github.com/developer0904/portFolio"><img src="https://gh-card.dev/repos/developer0904/portFolio.svg" width="400" alt="Portfolio"></a>
   </p>
@@ -131,41 +132,39 @@
 
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
-<div align="center">
-
-<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-
-</div>
+<p align="center">
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"></a><br>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
+</p>
 
 <br>
 
-<!-- Contribution Activity -->
+<!-- Activity Graph -->
 <h3 align="center">📈 GitHub Activity</h3>
-<div align="center">
+<p align="center">
   <a href="https://github.com/developer0904">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer0904&bg_color=2e3440&color=eceff4&line=88c0d0&point=5e81ac&area=true&hide_border=true&custom_title=Sudip%20Kumar's%20Contribution%20Activity" width="96%" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer0904&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=00f0ff&area=true&hide_border=true&custom_title=Sudip%20Kumar%27s%20Contribution%20Activity" width="96%" alt="GitHub Activity Graph" />
   </a>
-</div>
+</p>
 
 <br>
 
 <!-- Contribution Snake -->
 <h3 align="center">🐍 Contribution Journey</h3>
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/developer0904/developer0904/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
+</p>
 
 <br>
 
@@ -177,22 +176,15 @@
 
 <br>
 
-<!-- Support -->
-<h3 align="center">💰 Support Me</h3>
+<!-- Bottom banner slot -->
 <p align="center">
   <a href="https://github.com/developer0904">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Support" />
+    <img src="./assets/bottom.gif" width="100%" alt="Bottom banner" />
   </a>
 </p>
 
-<br>
-
 <!-- Ending -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-
-<p align="center">
-  ⚠️ This profile is built by <strong>@developer0904</strong> — inspired by the reference layout, with my own content and projects.
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" alt="divider" />
 
 <p align="center">
   <code>Build → Learn → Improve → Ship</code>
