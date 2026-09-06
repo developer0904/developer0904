@@ -5,7 +5,7 @@
 
 <!-- Master Head -->
 <a href="https://github.com/developer0904">
-  <img width="100%" src="./assets/pinterest-708824428892517445.png" alt="Sudip Kumar Banner"/>
+  <img width="100%" src="./assets/sakura-midnight-train-pc-ezgif.com-video-to-gif-converter.gif" alt="Sudip Kumar Banner"/>
 </a>
 
 <br>
@@ -59,7 +59,7 @@
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img alt="coding animation" width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/transparent_gitgif.gif" />
+<img alt="coding animation" width="100%" src="./assets/desk-work.gif" />
 
 </td>
 </tr>
@@ -179,7 +179,7 @@
 <!-- Bottom banner slot -->
 <p align="center">
   <a href="https://github.com/developer0904">
-    <img src="./assets/bottom.gif" width="100%" alt="Bottom banner" />
+    <img src="./assets/download.gif" width="100%" alt="Bottom banner" />
   </a>
 </p>
 
