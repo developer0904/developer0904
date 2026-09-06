@@ -71,11 +71,11 @@
 <h3 align="left">🧲 Drop me a line:</h3>
 <p align="left">
   <a href="mailto:sudeepdasdas17815@gmail.com" target="_blank">
-    <img width="40" height="40" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" />
+    <img width="40" height="40" src="./assets/icons8-gmail-48.png" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sudipkumardas2026/" target="_blank">
-    <img width="40" height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" />
+    <img width="40" height="40" src="./assets/icons8-linked-in-48.png" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://developer0904.github.io/" target="_blank">
