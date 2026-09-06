@@ -64,7 +64,7 @@
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img align="center" alt="coding-gif" width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/transparent_gitgif.gif" />
+<img align="center" alt="coding-gif" width="100%" src="./assets/desk-work.gif" />
 
 </td>
 </tr>
