@@ -7,7 +7,7 @@
 
 <!-- Header / MasterHead -->
 <a href="https://github.com/developer0904">
-  <img width="100%" src="./assets/sakura-midnight-train-pc.mp4" alt="Sudip Kumar Banner"/>
+  <img width="100%" src="./assets/sakura-midnight-train-pc-ezgif.com-video-to-gif-converter.gif" alt="Sudip Kumar Banner"/>
 </a>
 
 <br>
