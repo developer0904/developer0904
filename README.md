@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Sudip Kumar" width="100%" />
+<img src="./assets/pinterest-708824428892517445.png" alt="Sudip Kumar" width="100%" />
 
 # Hi 👋, I'm Sudip Kumar
 
