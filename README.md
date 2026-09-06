@@ -83,7 +83,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/developer0904" target="_blank">
-    <img width="40" height="40" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" />
+    <img width="40" height="40" src="./assets/icons8-github-48.png" alt="GitHub" />
   </a>
 </p>
 
