@@ -1,0 +1,23 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <g fill="none" stroke="#30363d" stroke-width="1" opacity="0.55">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300M1000 0V300M1100 0V300"/>
+  </g>
+  <g fill="#8b949e" font-family="monospace" font-size="15" opacity="0.7">
+    <text x="55" y="48">01</text><text x="155" y="108">10</text><text x="255" y="168">01</text><text x="355" y="228">11</text>
+    <text x="455" y="68">10</text><text x="555" y="128">01</text><text x="655" y="188">10</text><text x="755" y="248">01</text>
+    <text x="855" y="88">11</text><text x="955" y="148">00</text><text x="1055" y="208">10</text>
+  </g>
+  <g stroke="#c9d1d9" stroke-width="2" fill="none" opacity="0.9">
+    <path d="M70 230 C170 170 210 245 305 185 S450 130 520 195 S660 260 745 175 S900 115 1000 175 S1110 220 1160 135"/>
+  </g>
+  <g fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="105" font-size="34" font-weight="700">SUDIP KUMAR</text>
+    <text x="72" y="135" font-size="16" fill="#8b949e">BACKEND • SOFTWARE ENGINEERING • BUILDING IN PUBLIC</text>
+  </g>
+  <g fill="#58a6ff" font-family="monospace" font-size="14">
+    <text x="70" y="175">$ whoami</text>
+    <text x="70" y="197" fill="#c9d1d9">developer0904</text>
+  </g>
+</svg>
